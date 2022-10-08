@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.Js, Tailwind CSS, Sass and more**
 
-- 💬 Ask me about **React js, css, nodejs**
+- 💬 Ask me about **Javascript, ReactJS and CSS**
 
 - 📫 How to reach me **carrenocarlosgabriel@gmail.com**
 
