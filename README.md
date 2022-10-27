@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Carreño</h1>
 <h3 align="center">A passionate web development from Argentina</h3>
 
-- 🌱 I’m currently learning **Next.JS and Sass...**
-
-- 💬 Ask me about **React JS, CSS, Node JS**
+- 🌱 I’m currently learning **SQL and Docker...**
 
 - 📫 How to reach me **carrenocarlosgabriel@gmail.com**
 
