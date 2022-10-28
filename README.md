@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Carreño</h1>
 <h3 align="center">A passionate web development from Argentina</h3>
 
-- 🌱 I’m currently learning **SQL and Docker...**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **carrenocarlosgabriel@gmail.com**
 
